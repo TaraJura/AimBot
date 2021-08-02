@@ -130,7 +130,7 @@ namespace AutoAIM
             }
             else
             {
-                Cursor.Position = new Point(target.Value.X + 67, target.Value.Y + 101);
+                Cursor.Position = new Point(target.Value.X + 67, target.Value.Y + 105);
             }
         }
 
