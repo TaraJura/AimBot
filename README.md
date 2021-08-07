@@ -1,28 +1,23 @@
-# XerathAutoAIM
-League of Legends External Xerath spell AutoAIM
-
-
-
 Please dont use it on main account ! 
 
 Riot should see this github and make detection for this !!!
 
-# Xerath Q:
+#Q:
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/82063567/127531577-a43a6985-6a8a-4cef-b634-2aa96b35cdac.gif)
 
 
-# Xerath W:
+#W:
 
 ![vid2](https://user-images.githubusercontent.com/82063567/127530527-aab9b3b7-df24-41b1-9d2a-bfd4c3868a59.gif)
 
 
-# Xerath E:
+#E:
 
 ![vid3](https://user-images.githubusercontent.com/82063567/127530443-03825827-3012-4c9d-bec5-3ae3f86fbf85.gif)
 
 
-# Xerath R:
+#R:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/82063567/127531278-079aaed9-0d54-488e-9d5f-5c1bb0692b62.gif)
 
