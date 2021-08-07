@@ -2,6 +2,7 @@
 League of Legends External Xerath spell AutoAIM
 
 Please dont use it on main account ! 
+Riot should see this github and make detection for this !!!
 
 # Xerath Q:
 
