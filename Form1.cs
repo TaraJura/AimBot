@@ -34,7 +34,7 @@ namespace AutoAIM
                             InputKeys.Keyboard.KeyUp((ushort)DirectInputKeys.DIK_1);
                             Thread.Sleep(20);
                             Cursor.Position = p;
-                            Thread.Sleep(5000);
+                            Thread.Sleep(1000);
                         }
                         catch
                         {
@@ -56,7 +56,7 @@ namespace AutoAIM
                             InputKeys.Keyboard.KeyPress((ushort)DirectInputKeys.DIK_2);
                             Thread.Sleep(20);
                             Cursor.Position = p;
-                            Thread.Sleep(5000);
+                            Thread.Sleep(1000);
                         }
                         catch
                         {
@@ -81,7 +81,7 @@ namespace AutoAIM
                             InputKeys.Keyboard.KeyPress((ushort)DirectInputKeys.DIK_3);
                             Thread.Sleep(20);
                             Cursor.Position = p;
-                            Thread.Sleep(5000);
+                            Thread.Sleep(1000);
                         }
                         catch
                         {
@@ -125,10 +125,7 @@ namespace AutoAIM
         {
             Color color = Color.FromArgb(66, 7, 1);
             var target = ScreenCapture.GetColorPosition(color);
-            if (target == null)
-            {
-            }
-            else
+            if (target != null)
             {
                 Cursor.Position = new Point(target.Value.X + 67, target.Value.Y + 105);
             }
