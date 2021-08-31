@@ -1,6 +1,6 @@
 Please dont use it on main account ! 
 
-Riot should see this github and make detection for this !!!
+Riot should see this and make detection for this !!!
 
 # Q:
 
